@@ -1,0 +1,34 @@
+{
+  "name": "multi-library-mfe",
+  "version": "1.0.0",
+  "description": "Multi library micro frontend repository",
+  "main": "index.js",
+  "scripts": {
+    "install": "ts-node scripts/install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabio7maia/multi-library-mfe.git"
+  },
+  "keywords": [
+    "mfe",
+    "multi library",
+    "module federation",
+    "typescript"
+  ],
+  "author": {
+    "email": "fabio7maia@gmail.com",
+    "name": "Fábio Maia"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabio7maia/multi-library-mfe/issues"
+  },
+  "homepage": "https://github.com/fabio7maia/multi-library-mfe#readme",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
